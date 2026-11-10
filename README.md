@@ -1,15 +1,17 @@
-# وب‌سایت ذوچن | شرکت ذوب مس
+Zouchan Copper Smelting Company
 
-نسخه نمایشی استاتیک و سازگار با GitHub Pages.
+Zouchan Copper Smelting Company focuses on the copper industry and related smelting and production processes, working toward the development and advancement of the mining and metals sectors.
 
-## انتشار در GitHub Pages
-1. فایل ZIP را از حالت فشرده خارج کنید.
-2. محتویات پوشه `zouchan-modern` را مستقیماً در ریشه مخزن GitHub بارگذاری کنید؛ پوشه‌ها و مسیر `assets` را حفظ کنید.
-3. در مخزن به مسیر `Settings → Pages` بروید.
-4. در بخش Build and deployment گزینه `Deploy from a branch` را انتخاب کنید.
-5. شاخه `main` و پوشه `/(root)` را انتخاب و Save کنید.
+Copper plays a vital role in industrial development and serves as an essential raw material for a wide range of industries. With a forward-looking approach, Zouchan emphasizes technical expertise, modern technologies, and professional standards in copper production and processing.
 
-فایل `index.html` باید در ریشه مخزن باشد.
+Areas of Activity
 
-## نکته
-این نسخه یک وب‌سایت معرفی استاتیک است. فرم ارسال پیام، پنل مدیریت، پایگاه داده و قابلیت‌های سمت سرور در GitHub Pages اجرا نمی‌شوند. تصاویر استفاده‌شده در پوشه `assets` قرار دارند. اطلاعات رسمی شرکت، محصولات دقیق، گواهی‌ها و راه‌های تماس باید با داده‌های تأییدشده شرکت تکمیل شوند.
+• Copper smelting and production
+• Copper raw material processing
+• Development and improvement of industrial copper-related processes
+
+About This Website
+
+This website has been designed to introduce Zouchan Copper Smelting Company, showcase its business activities, provide company information, and offer an accessible platform for communication with visitors and business partners.
+
+Zouchan | Moving Forward in the Copper Industry
